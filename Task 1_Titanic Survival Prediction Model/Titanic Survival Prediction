@@ -1,6 +1,1 @@
-git init
-git add README.md  
-git add CODSOFT Titanic Survival Prediction Model.ipynb
-git commit -m "notebook first commit" 
-git remote add origin https://github.com/CODSOFT/Task 1_Titanic Survival Prediction Model/Titanic Survival Prediction Model.git 
-git push -u origin master 
+
